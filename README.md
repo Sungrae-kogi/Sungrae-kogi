@@ -2,11 +2,12 @@
   <h1>Sung Rae (성래)</h1>
   <h3>Backend Developer</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+Enthusiast;AI-Assisted+Coder" alt="Typing SVG" />
 </div>
 <div align="center">
   <h3>👨‍💻 Backend Developer</h3>
   <p>최신 AI 도구에의 적극적인 도입, 활용 및 AI에의 대체가 아닌 공존에 관심이 많습니다.</p>
+  <p>탈로스는 킬로가 필요합니다.</p>
 </div>
 
 <br>
