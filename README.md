@@ -1,11 +1,13 @@
 <div align="center">
   <h1>Sung Rae (성래)</h1>
-  <h3>Backend Developer</h3>
+  <h3>Logic Director </h3>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+Enthusiast;AI-Assisted+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Logic+Director;Spring+Boot+Enthusiast;AI-Assisted+Coder" alt="Typing SVG" />
 </div>
 <div align="center">
   <p>최신 AI 도구에의 적극적인 도입, 활용 및 AI에의 대체가 아닌 공존에 관심이 많습니다.</p>
+  <p>현재의 개발자는 코드를 작성하는 사람에서, 가치의 창출을 위해 AI를 다루는 사람으로 변화하고 있습니다, 마치 영화 감독(Director)이 영화의 큰 틀을 잡고 배우(AI)에게 지시를 하며</p>
+  <p>마음에 들지 않을 경우 다시 찍거나, 편집을 하는 방식이 현재 개발자라는 직업이 변화하는 방향과 굉장히 닮았다고 생각하여 본인을 Logic Director 라고 칭하고있습니다. </p> 
   <p>탈로스는 킬로가 필요합니다.</p>
 </div>
 
@@ -14,6 +16,7 @@
 ### 📖 Education & Experience
 - **국민대학교** 컴퓨터공학부 컴퓨터공학 전공 (2016.03 ~ 2023.02)
 - **스파르타코딩클럽** 내일배움캠프 Java 6기 백엔드 트랙 수료 (2024.07 ~ 2024.11)
+- **Becurio** 연구원 (2026.01 ~ )
 
 <br>
 
